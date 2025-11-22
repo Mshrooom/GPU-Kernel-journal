@@ -141,6 +141,4 @@ pip install torch triton
 * [Triton Docs](https://triton-lang.org/)
 * [ONNX Runtime Docs](https://onnxruntime.ai/)
 
----
 
-Would you like me to make a **starter folder structure + first sample `day1_vector_addition.cu` file** so your repo is immediately clone-and-run ready?
